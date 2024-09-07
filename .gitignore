@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules/
+
+# Build output
+/build/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor directories
+.vscode/
+.idea/
+
+# Operating system files
+*.swp
+*.swo
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
